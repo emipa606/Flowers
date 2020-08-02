@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Flowers (Continued)</name>
-  	<packageId>Mlie.Flowers</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/Flowers</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of Agracores mod for RimWorld 1.1
+  <name>Flowers (Continued)</name>
+  <packageId>Mlie.Flowers</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/Flowers</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of Agracores mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1529767758
 
 Support-chat:

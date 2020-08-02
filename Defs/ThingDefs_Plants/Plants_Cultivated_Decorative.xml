@@ -1,8 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	
-	<!--=========================== Daisy ==============================-->
-	
+  <!--=========================== Daisy ==============================-->
   <ThingDef ParentName="PlantBase">
     <defName>Plant_Daisy</defName>
     <label>daisy</label>
@@ -19,19 +17,19 @@
     <altitudeLayer>Item</altitudeLayer>
     <selectable>true</selectable>
     <ingestible />
-     <plant>
-		<dieIfLeafless>true</dieIfLeafless>
-		<harvestTag>Standard</harvestTag>
-		<sowWork>800</sowWork>
-		<sowTags>
-			<li>Ground</li>
-			<li>Decorative</li>
-		</sowTags>
-		<growMinGlow>0.3</growMinGlow>
-		<topWindExposure>0.1</topWindExposure>
-		<growDays>1.5</growDays>
-		<lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
-		<visualSizeRange>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>
         <min>0.3</min>
         <max>1.05</max>
       </visualSizeRange>
@@ -39,9 +37,7 @@
       <purpose>Beauty</purpose>
     </plant>
   </ThingDef>
-  
   <!--=========================== Lily ==============================-->
-  
   <ThingDef ParentName="PlantBase">
     <defName>Plant_Lily</defName>
     <label>lily</label>
@@ -58,19 +54,19 @@
     <altitudeLayer>Item</altitudeLayer>
     <selectable>true</selectable>
     <ingestible />
-     <plant>
-		<dieIfLeafless>true</dieIfLeafless>
-		<harvestTag>Standard</harvestTag>
-		<sowWork>800</sowWork>
-		<sowTags>
-			<li>Ground</li>
-			<li>Decorative</li>
-		</sowTags>
-		<growMinGlow>0.3</growMinGlow>
-		<topWindExposure>0.1</topWindExposure>
-		<growDays>1.5</growDays>
-		<lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
-		<visualSizeRange>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>
         <min>0.3</min>
         <max>1.05</max>
       </visualSizeRange>
@@ -78,9 +74,7 @@
       <purpose>Beauty</purpose>
     </plant>
   </ThingDef>
-
   <!--=========================== Daffodil ==============================-->
-  
   <ThingDef ParentName="PlantBase">
     <defName>Plant_Daffodil</defName>
     <label>daffodil</label>
@@ -97,19 +91,19 @@
     <altitudeLayer>Item</altitudeLayer>
     <selectable>true</selectable>
     <ingestible />
-     <plant>
-		<dieIfLeafless>true</dieIfLeafless>
-		<harvestTag>Standard</harvestTag>
-		<sowWork>800</sowWork>
-		<sowTags>
-			<li>Ground</li>
-			<li>Decorative</li>
-		</sowTags>
-		<growMinGlow>0.3</growMinGlow>
-		<topWindExposure>0.1</topWindExposure>
-		<growDays>1.5</growDays>
-		<lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
-		<visualSizeRange>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>
         <min>0.3</min>
         <max>1.05</max>
       </visualSizeRange>
@@ -117,9 +111,7 @@
       <purpose>Beauty</purpose>
     </plant>
   </ThingDef>
-  
   <!--=========================== Iris ==============================-->
-  
   <ThingDef ParentName="PlantBase">
     <defName>Plant_Iris</defName>
     <label>iris</label>
@@ -136,19 +128,19 @@
     <altitudeLayer>Item</altitudeLayer>
     <selectable>true</selectable>
     <ingestible />
-     <plant>
-		<dieIfLeafless>true</dieIfLeafless>
-		<harvestTag>Standard</harvestTag>
-		<sowWork>800</sowWork>
-		<sowTags>
-			<li>Ground</li>
-			<li>Decorative</li>
-		</sowTags>
-		<growMinGlow>0.3</growMinGlow>
-		<topWindExposure>0.1</topWindExposure>
-		<growDays>1.5</growDays>
-		<lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
-		<visualSizeRange>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>
         <min>0.3</min>
         <max>1.05</max>
       </visualSizeRange>
@@ -156,9 +148,7 @@
       <purpose>Beauty</purpose>
     </plant>
   </ThingDef>
-  
   <!--=========================== Dahlia ==============================-->
-  
   <ThingDef ParentName="PlantBase">
     <defName>Plant_Dahlia</defName>
     <label>dahlia</label>
@@ -175,19 +165,19 @@
     <altitudeLayer>Item</altitudeLayer>
     <selectable>true</selectable>
     <ingestible />
-     <plant>
-		<dieIfLeafless>true</dieIfLeafless>
-		<harvestTag>Standard</harvestTag>
-		<sowWork>800</sowWork>
-		<sowTags>
-			<li>Ground</li>
-			<li>Decorative</li>
-		</sowTags>
-		<growMinGlow>0.3</growMinGlow>
-		<topWindExposure>0.1</topWindExposure>
-		<growDays>1.5</growDays>
-		<lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
-		<visualSizeRange>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>
         <min>0.3</min>
         <max>1.05</max>
       </visualSizeRange>
@@ -195,9 +185,7 @@
       <purpose>Beauty</purpose>
     </plant>
   </ThingDef>
-  
   <!--=========================== Crocus ==============================-->
-  
   <ThingDef ParentName="PlantBase">
     <defName>Plant_Crocus</defName>
     <label>crocus</label>
@@ -214,19 +202,19 @@
     <altitudeLayer>Item</altitudeLayer>
     <selectable>true</selectable>
     <ingestible />
-     <plant>
-		<dieIfLeafless>true</dieIfLeafless>
-		<harvestTag>Standard</harvestTag>
-		<sowWork>800</sowWork>
-		<sowTags>
-			<li>Ground</li>
-			<li>Decorative</li>
-		</sowTags>
-		<growMinGlow>0.3</growMinGlow>
-		<topWindExposure>0.1</topWindExposure>
-		<growDays>1.5</growDays>
-		<lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
-		<visualSizeRange>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>
         <min>0.3</min>
         <max>1.05</max>
       </visualSizeRange>
@@ -234,9 +222,7 @@
       <purpose>Beauty</purpose>
     </plant>
   </ThingDef>
-  
-   <!--=========================== Chrysanthemum ==============================-->
-  
+  <!--=========================== Chrysanthemum ==============================-->
   <ThingDef ParentName="PlantBase">
     <defName>Plant_Chrysanthemum</defName>
     <label>chrysanthemum</label>
@@ -253,19 +239,19 @@
     <altitudeLayer>Item</altitudeLayer>
     <selectable>true</selectable>
     <ingestible />
-     <plant>
-		<dieIfLeafless>true</dieIfLeafless>
-		<harvestTag>Standard</harvestTag>
-		<sowWork>800</sowWork>
-		<sowTags>
-			<li>Ground</li>
-			<li>Decorative</li>
-		</sowTags>
-		<growMinGlow>0.3</growMinGlow>
-		<topWindExposure>0.1</topWindExposure>
-		<growDays>1.5</growDays>
-		<lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
-		<visualSizeRange>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>
         <min>0.3</min>
         <max>1.05</max>
       </visualSizeRange>
@@ -273,9 +259,7 @@
       <purpose>Beauty</purpose>
     </plant>
   </ThingDef>
-  
   <!--=========================== Buttercup ==============================-->
-  
   <ThingDef ParentName="PlantBase">
     <defName>Plant_Buttercup</defName>
     <label>buttercup</label>
@@ -292,19 +276,19 @@
     <altitudeLayer>Item</altitudeLayer>
     <selectable>true</selectable>
     <ingestible />
-     <plant>
-		<dieIfLeafless>true</dieIfLeafless>
-		<harvestTag>Standard</harvestTag>
-		<sowWork>800</sowWork>
-		<sowTags>
-			<li>Ground</li>
-			<li>Decorative</li>
-		</sowTags>
-		<growMinGlow>0.3</growMinGlow>
-		<topWindExposure>0.1</topWindExposure>
-		<growDays>1.5</growDays>
-		<lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
-		<visualSizeRange>
+    <plant>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>
         <min>0.3</min>
         <max>1.05</max>
       </visualSizeRange>
@@ -312,5 +296,4 @@
       <purpose>Beauty</purpose>
     </plant>
   </ThingDef>
-  
 </Defs>

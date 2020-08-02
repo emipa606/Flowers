@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <BiomeDef>
     <defName>TemperateForest</defName>
     <label>temperate forest</label>
@@ -47,7 +46,6 @@
         <diseaseInc>Disease_MuscleParasites</diseaseInc>
         <commonality>50</commonality>
       </li>
-      
       <li>
         <diseaseInc>Disease_AnimalFlu</diseaseInc>
         <commonality>100</commonality>
@@ -107,32 +105,32 @@
       <SnowHard>4</SnowHard>
     </baseWeatherCommonalities>
     <wildPlants>
-			<Plant_Grass>5.0</Plant_Grass>
-			<Plant_TallGrass>2.0</Plant_TallGrass>
-			<Plant_Brambles>1.0</Plant_Brambles>
-			<Plant_Dandelion>0.5</Plant_Dandelion>
-			<Plant_Bush>0.6</Plant_Bush>
-			<Plant_TreeOak>0.5</Plant_TreeOak>
-			<Plant_TreePoplar>0.5</Plant_TreePoplar>
-			<Plant_Berry>0.05</Plant_Berry>
-			<Plant_HealrootWild>0.05</Plant_HealrootWild>
-			<Plant_Daisy>0.1</Plant_Daisy>
-			<Plant_Lily>0.1</Plant_Lily>
-			<Plant_Daffodil>0.1</Plant_Daffodil>
-			<Plant_Iris>0.1</Plant_Iris>
-			<Plant_Dahlia>0.1</Plant_Dahlia>
-			<Plant_Crocus>0.1</Plant_Crocus>
-			<Plant_Chrysanthemum>0.1</Plant_Chrysanthemum>
-			<Plant_Buttercup>0.1</Plant_Buttercup>
-		</wildPlants>
+      <Plant_Grass>5.0</Plant_Grass>
+      <Plant_TallGrass>2.0</Plant_TallGrass>
+      <Plant_Brambles>1.0</Plant_Brambles>
+      <Plant_Dandelion>0.5</Plant_Dandelion>
+      <Plant_Bush>0.6</Plant_Bush>
+      <Plant_TreeOak>0.5</Plant_TreeOak>
+      <Plant_TreePoplar>0.5</Plant_TreePoplar>
+      <Plant_Berry>0.05</Plant_Berry>
+      <Plant_HealrootWild>0.05</Plant_HealrootWild>
+      <Plant_Daisy>0.1</Plant_Daisy>
+      <Plant_Lily>0.1</Plant_Lily>
+      <Plant_Daffodil>0.1</Plant_Daffodil>
+      <Plant_Iris>0.1</Plant_Iris>
+      <Plant_Dahlia>0.1</Plant_Dahlia>
+      <Plant_Crocus>0.1</Plant_Crocus>
+      <Plant_Chrysanthemum>0.1</Plant_Chrysanthemum>
+      <Plant_Buttercup>0.1</Plant_Buttercup>
+    </wildPlants>
     <wildAnimals>
-			<Hare>1.0</Hare>
-			<Squirrel>1.0</Squirrel>
-			<Rat>1.0</Rat>
-			<Deer>0.5</Deer>
-			<WildBoar>0.5</WildBoar>
-			<Turkey>0.5</Turkey>
-			<Raccoon>0.5</Raccoon>
+      <Hare>1.0</Hare>
+      <Squirrel>1.0</Squirrel>
+      <Rat>1.0</Rat>
+      <Deer>0.5</Deer>
+      <WildBoar>0.5</WildBoar>
+      <Turkey>0.5</Turkey>
+      <Raccoon>0.5</Raccoon>
       <Ibex>0.5</Ibex>
       <Muffalo>0.5</Muffalo>
       <Alpaca>0.5</Alpaca>
@@ -154,7 +152,6 @@
       <li>Alpaca</li>
     </allowedPackAnimals>
   </BiomeDef>
-
   <BiomeDef>
     <defName>TemperateSwamp</defName>
     <label>temperate swamp</label>
@@ -197,12 +194,10 @@
         <diseaseInc>Disease_SensoryMechanites</diseaseInc>
         <commonality>30</commonality>
       </li>
-
       <li>
         <diseaseInc>Disease_MuscleParasites</diseaseInc>
         <commonality>50</commonality>
       </li>
-      
       <li>
         <diseaseInc>Disease_AnimalFlu</diseaseInc>
         <commonality>100</commonality>
@@ -275,14 +270,14 @@
       <Plant_TreeMaple>1.0</Plant_TreeMaple>
       <Plant_Berry>0.05</Plant_Berry>
       <Plant_HealrootWild>0.05</Plant_HealrootWild>
-	  <Plant_Daisy>0.1</Plant_Daisy>
-			<Plant_Lily>0.1</Plant_Lily>
-			<Plant_Daffodil>0.1</Plant_Daffodil>
-			<Plant_Iris>0.1</Plant_Iris>
-			<Plant_Dahlia>0.1</Plant_Dahlia>
-			<Plant_Crocus>0.1</Plant_Crocus>
-			<Plant_Chrysanthemum>0.1</Plant_Chrysanthemum>
-			<Plant_Buttercup>0.1</Plant_Buttercup>
+      <Plant_Daisy>0.1</Plant_Daisy>
+      <Plant_Lily>0.1</Plant_Lily>
+      <Plant_Daffodil>0.1</Plant_Daffodil>
+      <Plant_Iris>0.1</Plant_Iris>
+      <Plant_Dahlia>0.1</Plant_Dahlia>
+      <Plant_Crocus>0.1</Plant_Crocus>
+      <Plant_Chrysanthemum>0.1</Plant_Chrysanthemum>
+      <Plant_Buttercup>0.1</Plant_Buttercup>
     </wildPlants>
     <wildAnimals>
       <Hare>1.0</Hare>
@@ -312,5 +307,4 @@
       <li>Alpaca</li>
     </allowedPackAnimals>
   </BiomeDef>
-
 </Defs>
