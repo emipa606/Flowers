@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/BiomeDef[defName = "TropicalRainforest" or defName = "TropicalSwamp"]/wildPlants</xpath>
+    <value>
+      <Plant_Dandelion>0.5</Plant_Dandelion>
+      <Plant_Daisy>0.1</Plant_Daisy>
+      <Plant_Lily>0.1</Plant_Lily>
+      <Plant_Daffodil>0.1</Plant_Daffodil>
+      <Plant_Iris>0.1</Plant_Iris>
+      <Plant_Dahlia>0.1</Plant_Dahlia>
+      <Plant_Crocus>0.1</Plant_Crocus>
+      <Plant_Chrysanthemum>0.1</Plant_Chrysanthemum>
+      <Plant_Buttercup>0.1</Plant_Buttercup>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/BiomeDef[defName = "TemperateForest" or defName = "TemperateSwamp"]/wildPlants</xpath>
+    <value>
+      <Plant_Daisy>0.1</Plant_Daisy>
+      <Plant_Lily>0.1</Plant_Lily>
+      <Plant_Daffodil>0.1</Plant_Daffodil>
+      <Plant_Iris>0.1</Plant_Iris>
+      <Plant_Dahlia>0.1</Plant_Dahlia>
+      <Plant_Crocus>0.1</Plant_Crocus>
+      <Plant_Chrysanthemum>0.1</Plant_Chrysanthemum>
+      <Plant_Buttercup>0.1</Plant_Buttercup>
+    </value>
+  </Operation>
+</Patch>

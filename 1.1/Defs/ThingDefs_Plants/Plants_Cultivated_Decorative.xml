@@ -51,7 +51,7 @@
     </statBases>
   </ThingDef>
   <!--=========================== Daffodil ==============================-->
-  <ThingDef ParentName="PlantBase">
+  <ThingDef ParentName="Flowers_BaseFlower">
     <defName>Plant_Daffodil</defName>
     <label>daffodil</label>
     <graphicData>
@@ -65,7 +65,7 @@
     </statBases>
   </ThingDef>
   <!--=========================== Iris ==============================-->
-  <ThingDef ParentName="PlantBase">
+  <ThingDef ParentName="Flowers_BaseFlower">
     <defName>Plant_Iris</defName>
     <label>iris</label>
     <graphicData>
@@ -79,7 +79,7 @@
     </statBases>
   </ThingDef>
   <!--=========================== Dahlia ==============================-->
-  <ThingDef ParentName="PlantBase">
+  <ThingDef ParentName="Flowers_BaseFlower">
     <defName>Plant_Dahlia</defName>
     <label>dahlia</label>
     <graphicData>
@@ -93,7 +93,7 @@
     </statBases>
   </ThingDef>
   <!--=========================== Crocus ==============================-->
-  <ThingDef ParentName="PlantBase">
+  <ThingDef ParentName="Flowers_BaseFlower">
     <defName>Plant_Crocus</defName>
     <label>crocus</label>
     <graphicData>
@@ -107,7 +107,7 @@
     </statBases>
   </ThingDef>
   <!--=========================== Chrysanthemum ==============================-->
-  <ThingDef ParentName="PlantBase">
+  <ThingDef ParentName="Flowers_BaseFlower">
     <defName>Plant_Chrysanthemum</defName>
     <label>chrysanthemum</label>
     <graphicData>
@@ -121,7 +121,7 @@
     </statBases>
   </ThingDef>
   <!--=========================== Buttercup ==============================-->
-  <ThingDef ParentName="PlantBase">
+  <ThingDef ParentName="Flowers_BaseFlower">
     <defName>Plant_Buttercup</defName>
     <label>buttercup</label>
     <graphicData>

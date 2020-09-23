@@ -1,52 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Daisy -->
-
-  <Plant_Daisy.label>daisy</Plant_Daisy.label>
-  <Plant_Daisy.description>A beautiful cultivated flower.</Plant_Daisy.description>
-
-
+  <!--<Plant_Daisy.label>daisy</Plant_Daisy.label>-->
+  <!--<Plant_Daisy.description>A beautiful cultivated flower.</Plant_Daisy.description>-->
   <!-- Lily -->
-
-  <Plant_Lily.label>lily</Plant_Lily.label>
-  <Plant_Lily.description>A beautiful cultivated flower.</Plant_Lily.description>
-
-
+  <!--<Plant_Lily.label>lily</Plant_Lily.label>-->
+  <!--<Plant_Lily.description>A beautiful cultivated flower.</Plant_Lily.description>-->
   <!-- Daffodil -->
-
-  <Plant_Daffodil.label>daffodil</Plant_Daffodil.label>
-  <Plant_Daffodil.description>A beautiful cultivated flower.</Plant_Daffodil.description>
-
-
+  <!--<Plant_Daffodil.label>daffodil</Plant_Daffodil.label>-->
+  <!--<Plant_Daffodil.description>A beautiful cultivated flower.</Plant_Daffodil.description>-->
   <!-- Iris -->
-
-  <Plant_Iris.label>iris</Plant_Iris.label>
-  <Plant_Iris.description>A beautiful cultivated flower.</Plant_Iris.description>
-
-
+  <!--<Plant_Iris.label>iris</Plant_Iris.label>-->
+  <!--<Plant_Iris.description>A beautiful cultivated flower.</Plant_Iris.description>-->
   <!-- Dahlia -->
-
-  <Plant_Dahlia.label>dahlia</Plant_Dahlia.label>
-  <Plant_Dahlia.description>A beautiful cultivated flower.</Plant_Dahlia.description>
-
-
+  <!--<Plant_Dahlia.label>dahlia</Plant_Dahlia.label>-->
+  <!--<Plant_Dahlia.description>A beautiful cultivated flower.</Plant_Dahlia.description>-->
   <!-- Crocus -->
-
-  <Plant_Crocus.label>crocus</Plant_Crocus.label>
-  <Plant_Crocus.description>A beautiful cultivated flower.</Plant_Crocus.description>
-
-
+  <!--<Plant_Crocus.label>crocus</Plant_Crocus.label>-->
+  <!--<Plant_Crocus.description>A beautiful cultivated flower.</Plant_Crocus.description>-->
   <!-- Chrysanthemum -->
-
-  <Plant_Chrysanthemum.label>chrysanthemum</Plant_Chrysanthemum.label>
-  <Plant_Chrysanthemum.description>A beautiful cultivated flower.</Plant_Chrysanthemum.description>
-
-
+  <!--<Plant_Chrysanthemum.label>chrysanthemum</Plant_Chrysanthemum.label>-->
+  <!--<Plant_Chrysanthemum.description>A beautiful cultivated flower.</Plant_Chrysanthemum.description>-->
   <!-- Buttercup -->
-
-  <Plant_Buttercup.label>buttercup</Plant_Buttercup.label>
-  <Plant_Buttercup.description>A beautiful cultivated flower.</Plant_Buttercup.description>
-
+  <!--<Plant_Buttercup.label>buttercup</Plant_Buttercup.label>-->
+  <!--<Plant_Buttercup.description>A beautiful cultivated flower.</Plant_Buttercup.description>-->
 
 </LanguageData>
