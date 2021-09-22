@@ -21,6 +21,12 @@
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
     </plant>
+    <statBases>
+      <MaxHitPoints>85</MaxHitPoints>
+      <Beauty>12</Beauty>
+      <BeautyOutdoors>12</BeautyOutdoors>
+      <Nutrition>0.05</Nutrition>
+    </statBases>
   </ThingDef>
   <!--=========================== Daisy ==============================-->
   <ThingDef ParentName="Flowers_BaseFlower">
@@ -30,11 +36,6 @@
       <texPath>Things/Plant/Daisy</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <statBases>
-      <MaxHitPoints>85</MaxHitPoints>
-      <Beauty>12</Beauty>
-      <Nutrition>0.05</Nutrition>
-    </statBases>
   </ThingDef>
   <!--=========================== Lily ==============================-->
   <ThingDef ParentName="Flowers_BaseFlower">
@@ -44,11 +45,6 @@
       <texPath>Things/Plant/Lily</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <statBases>
-      <MaxHitPoints>85</MaxHitPoints>
-      <Beauty>12</Beauty>
-      <Nutrition>0.05</Nutrition>
-    </statBases>
   </ThingDef>
   <!--=========================== Daffodil ==============================-->
   <ThingDef ParentName="Flowers_BaseFlower">
@@ -58,11 +54,6 @@
       <texPath>Things/Plant/Daffodil</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <statBases>
-      <MaxHitPoints>85</MaxHitPoints>
-      <Beauty>12</Beauty>
-      <Nutrition>0.05</Nutrition>
-    </statBases>
   </ThingDef>
   <!--=========================== Iris ==============================-->
   <ThingDef ParentName="Flowers_BaseFlower">
@@ -72,11 +63,6 @@
       <texPath>Things/Plant/Iris</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <statBases>
-      <MaxHitPoints>85</MaxHitPoints>
-      <Beauty>12</Beauty>
-      <Nutrition>0.05</Nutrition>
-    </statBases>
   </ThingDef>
   <!--=========================== Dahlia ==============================-->
   <ThingDef ParentName="Flowers_BaseFlower">
@@ -86,11 +72,6 @@
       <texPath>Things/Plant/Dahlia</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <statBases>
-      <MaxHitPoints>85</MaxHitPoints>
-      <Beauty>12</Beauty>
-      <Nutrition>0.05</Nutrition>
-    </statBases>
   </ThingDef>
   <!--=========================== Crocus ==============================-->
   <ThingDef ParentName="Flowers_BaseFlower">
@@ -100,11 +81,6 @@
       <texPath>Things/Plant/Crocus</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <statBases>
-      <MaxHitPoints>85</MaxHitPoints>
-      <Beauty>12</Beauty>
-      <Nutrition>0.05</Nutrition>
-    </statBases>
   </ThingDef>
   <!--=========================== Chrysanthemum ==============================-->
   <ThingDef ParentName="Flowers_BaseFlower">
@@ -114,11 +90,6 @@
       <texPath>Things/Plant/Chrysanthemum</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <statBases>
-      <MaxHitPoints>85</MaxHitPoints>
-      <Beauty>12</Beauty>
-      <Nutrition>0.05</Nutrition>
-    </statBases>
   </ThingDef>
   <!--=========================== Buttercup ==============================-->
   <ThingDef ParentName="Flowers_BaseFlower">
@@ -128,10 +99,5 @@
       <texPath>Things/Plant/Buttercup</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <statBases>
-      <MaxHitPoints>85</MaxHitPoints>
-      <Beauty>12</Beauty>
-      <Nutrition>0.05</Nutrition>
-    </statBases>
   </ThingDef>
 </Defs>

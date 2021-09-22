@@ -15,7 +15,7 @@
     </value>
   </Operation>
   <Operation Class="PatchOperationAdd">
-    <xpath>Defs/BiomeDef[defName = "TemperateForest" or defName = "TemperateSwamp"]/wildPlants</xpath>
+    <xpath>Defs/BiomeDef[defName = "TemperateForest" or defName = "TemperateSwamp" or defName = "BorealForest" or defName = "AridShrubland"]/wildPlants</xpath>
     <value>
       <Plant_Daisy>0.1</Plant_Daisy>
       <Plant_Lily>0.1</Plant_Lily>
