@@ -1,5 +1,8 @@
 # Changelog for Flowers
 
+1.4.2 - Conditional patch for ReGrowth Core compatiblity
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 
