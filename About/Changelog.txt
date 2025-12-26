@@ -1,5 +1,8 @@
 # Changelog for Flowers
 
+1.6.1 - Updated chinesesimplified translation, thanks gengchensh!
+
+
 1.6.0 - Mod updated for 1.6 and passed autotests
 
 

@@ -1,44 +1,35 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN: buttercup -->
   <Plant_Buttercup.label>buttercup</Plant_Buttercup.label>
   <!-- EN: A beautiful cultivated flower. -->
   <Plant_Buttercup.description>A beautiful cultivated flower.</Plant_Buttercup.description>
-  
   <!-- EN: chrysanthemum -->
   <Plant_Chrysanthemum.label>chrysanthemum</Plant_Chrysanthemum.label>
   <!-- EN: A beautiful cultivated flower. -->
   <Plant_Chrysanthemum.description>A beautiful cultivated flower.</Plant_Chrysanthemum.description>
-  
   <!-- EN: crocus -->
   <Plant_Crocus.label>crocus</Plant_Crocus.label>
   <!-- EN: A beautiful cultivated flower. -->
   <Plant_Crocus.description>A beautiful cultivated flower.</Plant_Crocus.description>
-  
   <!-- EN: daffodil -->
   <Plant_Daffodil.label>daffodil</Plant_Daffodil.label>
   <!-- EN: A beautiful cultivated flower. -->
   <Plant_Daffodil.description>A beautiful cultivated flower.</Plant_Daffodil.description>
-  
   <!-- EN: dahlia -->
   <Plant_Dahlia.label>dahlia</Plant_Dahlia.label>
   <!-- EN: A beautiful cultivated flower. -->
   <Plant_Dahlia.description>A beautiful cultivated flower.</Plant_Dahlia.description>
-  
   <!-- EN: daisy -->
   <Plant_Daisy.label>daisy</Plant_Daisy.label>
   <!-- EN: A beautiful cultivated flower. -->
   <Plant_Daisy.description>A beautiful cultivated flower.</Plant_Daisy.description>
-  
   <!-- EN: iris -->
   <Plant_Iris.label>iris</Plant_Iris.label>
   <!-- EN: A beautiful cultivated flower. -->
   <Plant_Iris.description>A beautiful cultivated flower.</Plant_Iris.description>
-  
   <!-- EN: lily -->
   <Plant_Lily.label>lily</Plant_Lily.label>
   <!-- EN: A beautiful cultivated flower. -->
   <Plant_Lily.description>A beautiful cultivated flower.</Plant_Lily.description>
-  
 </LanguageData>
