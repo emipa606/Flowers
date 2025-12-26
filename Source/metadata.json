@@ -9,5 +9,11 @@
     " decoration",
     " gardens"
   ],
-  "LastXmlCleaning": "2025-06-14T15:58:50.1501412+02:00"
+  "LastXmlCleaning": "2025-06-14T15:58:50.1501412+02:00",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 5138,
+  "CodeBaseSize": 58
 }
