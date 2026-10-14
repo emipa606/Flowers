@@ -53,4 +53,4 @@ This mod adds a bunch of flowers into the game for decoration and to brighten up
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/Flowers?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2025555200) | tags: floral variety, garden aesthetics
+[![Image](https://img.shields.io/github/v/release/emipa606/Flowers?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2025555200) | garden aesthetics, floral variety
